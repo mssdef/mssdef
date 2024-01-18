@@ -14,6 +14,8 @@ A Magento developer since the first Magento releases. Committed to implementing,
 
 Salesforce Commerce Cloud experience with SFRA and Site Genesis architecture.
 
+<img alt="Maksym's GitHub stats"
+src="https://github-readme-stats.vercel.app/api?username=mssdef&show_icons=true&theme=transparent"/>
 
 For more than 15 years, I have been working with a variety of closed and open-source Ecommerce platforms, including the development of a proprietary custom Ecommerce system. Focused on Magento/Adobe Commerce, SFCC, and Headless e-commerce setups.
 
