@@ -23,7 +23,7 @@ Adobe Commerce cloud tools, Docker, k8s, and zero-downtime deployment.
 
 Backend: Magento 2.x, Magento 1.x, Node.js, Slim, Laravel, Lumen, Symfony, PHP, Salesforce Commerce Cloud, AMQP, RabbitMQ
 
-Infrastructure: AWS, GCP, Lambda, Cloudflare, CI/CD, Gitlab, Docker
+Infrastructure: AWS, GCP, Lambda, Cloudflare, VPN, CI/CD, Gitlab, Docker
 
 Frontend: SFCC SFRA, Site Genesis, React/Redux, Typescript, Nuxt.js/Vue.js
 
