@@ -21,7 +21,7 @@ Expert in bridging the gap between legacy monoliths and modern Headless/Composab
 
 Adobe Commerce cloud tools, Docker, k8s, and zero-downtime deployment.
 
-Backend: Magento 2.x, Magento 1.x, Node.js, Slim, Laravel, Lumen, Symfony, PHP, Salesforce Commerce Cloud, AMQP, RabbitMQ
+Backend: Python, NodeJS, Magento 2.x, Magento 1.x, Slim, Laravel, Lumen, Symfony, PHP, Salesforce Commerce Cloud, AMQP, RabbitMQ
 
 Infrastructure: AWS, GCP, Lambda, Cloudflare, VPN, CI/CD, Gitlab, Docker
 
