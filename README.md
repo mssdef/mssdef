@@ -37,7 +37,7 @@ Tests/Monitoring: Logz.io, Cypress, NewRelic, PHPUnit, PhantomJS, Google PageSpe
 
 - JTI Switzerland (Global Consumer Goods) https://github.com/mssdef/portfolio-JTI-Ploom
 - Ridestore (Swedish Premium Brand) https://github.com/mssdef/portfolio-Ridestore
-- US Beaury Brand https://github.com/mssdef/portfolio-Market-Intelligence-Platform
+- US Beauty Brand https://github.com/mssdef/portfolio-Market-Intelligence-Platform
 - Cordial Global Marketing Platform https://github.com/mssdef/portfolio-Cordial-
 - US Medical Brand https://github.com/mssdef/portfolio-Market-Intelligence-Platform
 - AnimedDirect (UK Retail Leader) https://github.com/mssdef/portfolio-AnimedDirect
