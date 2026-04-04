@@ -1,7 +1,7 @@
 # Resume Andrew Romanchenko Systems Architect | Data Engineering & Scalability | Adobe Commerce Master
 andrew@xpscommerce.com | [GitHub](https://github.com/mssdef) | [Stack Overflow](https://stackoverflow.com/users/1671297/xps)
 
-20+ years of software engineering with a primary focus on high-scale Enterprise E-commerce. Adobe Certified Master (Architect) and multi-cloud backend expert (AWS, GCP, Azure) with a track record of delivering high-concurrency systems.
+15+ years of software engineering with a primary focus on high-scale Enterprise E-commerce. Adobe Certified Master (Architect) and multi-cloud backend expert (AWS, GCP, Azure) with a track record of delivering high-concurrency systems.
 
 ✅ Adobe Certified Master - Adobe Commerce Architect (2023)
 
