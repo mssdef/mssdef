@@ -1,35 +1,5 @@
 # Resume Andrew Romanchenko Systems Architect | Data Engineering & Scalability | Adobe Commerce Master
-andrew@xpscommerce.com | [GitHub](https://github.com/mssdef) | [Stack Overflow](https://stackoverflow.com/users/1671297/xps)
-
-20+ years of software engineering with a primary focus on high-scale Enterprise E-commerce. Adobe Certified Master (Architect) and multi-cloud backend expert (AWS, GCP, Azure) with a track record of delivering high-concurrency systems.
-
-✅ Adobe Certified Master - Adobe Commerce Architect (2023)
-
-✅ Work experience with EU/UK top brands
-
-✅ Work experience with US/EU early-stage startups
-
-✅ Magento Certified Developer Plus (2013)
-
-
-A Magento developer since the first Magento release. Committed to implementing, supporting, and making integrations for the Magento platform for various markets such as fashion, entertainment, household goods, and electronics.
-
-Salesforce Commerce Cloud experience with SFRA and Site Genesis architecture.
-
-Expert in bridging the gap between legacy monoliths and modern Headless/Composable architectures.
-
-Adobe Commerce cloud tools, Docker, k8s, and zero-downtime deployment.
-
-Backend: Python, NodeJS, Magento 2.x, Magento 1.x, Slim, Laravel, Lumen, Symfony, PHP, Salesforce Commerce Cloud, AMQP, RabbitMQ
-
-Infrastructure: AWS, GCP, Lambda, Cloudflare, VPN, CI/CD, Gitlab, Docker
-
-Frontend: SFCC SFRA, Site Genesis, React/Redux, Typescript, Nuxt.js/Vue.js
-
-APIs: n8n, HSBC, Klarna, AI apis, Worldpay, Square, PayPal
-
-Tests/Monitoring: Logz.io, Cypress, NewRelic, PHPUnit, PhantomJS, Google PageSpeed, BlazeMeter, Stoplight.io
-
+andrew.romanc@gmail.com | [GitHub](https://github.com/mssdef) | [Stack Overflow](https://stackoverflow.com/users/1671297/xps)
 
 
 # Case Studies
