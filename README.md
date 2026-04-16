@@ -1,4 +1,4 @@
-# Systems Architect | Data Engineering & Scalability
+# Data Engineering & Scalability
 andrew.romanc@gmail.com | [GitHub](https://github.com/mssdef) | [Stack Overflow](https://stackoverflow.com/users/1671297/xps)
 
 
