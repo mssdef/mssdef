@@ -33,7 +33,7 @@ Scalability: Committed to designing high-concurrency systems (99.9% uptime) for 
 Culture: Seeking a high-performance environment where technical excellence drives business growth.
 
 # Beyond the Code
-**Oceanman:** Long-distance open-water swimmer. I apply the same discipline and mental endurance required for the ocean to the design and delivery of complex architectures.
+**Oceanman:** Long-distance open-water swimmer. I apply the same discipline and mental endurance required for the ocean to the design and delivery of complex architecture that scale.
 
 **Toastmasters International:** I focus on Public Speaking and Leadership to bridge the gap between deep technical engineering and high-level business strategy.
 
