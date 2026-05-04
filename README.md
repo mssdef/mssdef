@@ -11,6 +11,7 @@ andrew.romanc@gmail.com | [GitHub](https://github.com/mssdef) | [Stack Overflow]
 - US Medical Brand https://github.com/mssdef/healthtech-azure-public
 - AnimedDirect (UK Retail Leader) https://github.com/mssdef/portfolio-AnimedDirect
 - AnglingDirect (UK Retail Leader) https://github.com/mssdef/portfolio-AnglingDirect
+- Square Enix
 
 # Additional Experience
 - Marubeni Japanese Corporation https://mssdef.com/resume/portfolio/marubeni/
