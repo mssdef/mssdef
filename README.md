@@ -6,8 +6,8 @@ andrew.romanc@gmail.com | [GitHub](https://github.com/mssdef) | [Stack Overflow]
 
 - JTI Switzerland (Global Consumer Goods) https://github.com/mssdef/portfolio-JTI-Ploom
 - Ridestore (Swedish Premium Brand) https://github.com/mssdef/portfolio-Ridestore
-- US Beauty Brand https://github.com/mssdef/market-intelligence-aws-public
 - Cordial Global Marketing Platform https://github.com/mssdef/portfolio-Cordial-
+- US Beauty Brand https://github.com/mssdef/market-intelligence-aws-public
 - US Medical Brand https://github.com/mssdef/healthtech-azure-public
 - AnimedDirect (UK Retail Leader) https://github.com/mssdef/portfolio-AnimedDirect
 - AnglingDirect (UK Retail Leader) https://github.com/mssdef/portfolio-AnglingDirect
@@ -17,7 +17,6 @@ andrew.romanc@gmail.com | [GitHub](https://github.com/mssdef) | [Stack Overflow]
 - Marubeni Japanese Corporation https://mssdef.com/resume/portfolio/marubeni/
 - Germany Technology Brand https://github.com/mssdef/portfolio-Market-Intelligence-Platform
 - August Home US Automation Company https://github.com/mssdef/portfolio-August-Home
-- Badaboom US Startup https://github.com/mssdef/portfolio-Badaboom
 - LuxuryShops Zurich Geneva https://github.com/mssdef/portfolio-LuxuryShops
 - McEvoy US Premium Brand https://github.com/mssdef/McEvoy-Ranch
 
