@@ -23,7 +23,6 @@ andrew.romanc@gmail.com | [GitHub](https://github.com/mssdef) | [Stack Overflow]
 - SprinklerWarehouse US Retailer https://github.com/mssdef/portfolio-SprinklerWarehouse
 - PoolZoom US Retailer https://github.com/mssdef/portfolio-PoolZoom
 - Minus-8 US Luxury Brand https://github.com/mssdef/portfolio-minus8
-- ManchesterMadness Australia Retailer https://github.com/mssdef/portfolio-ManchesterMadness
 
 # Strategic Focus
 
